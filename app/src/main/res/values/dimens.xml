@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Sección bienvenido-->
+    <dimen name="bienvenido_textSize">40sp</dimen>
+    <dimen name="bienvenido_margin">20dp</dimen>
+    <!--CardView-->
+    <dimen name="cornerRadius">20dp</dimen>
+    <dimen name="cardElevation">4dp</dimen>
+    <dimen name="padding_cardview_relativeLayout">6dp</dimen>
+    <dimen name="image_citasHoy">100dp</dimen>
+    <dimen name="cardview_textSize">24sp</dimen>
+    <dimen name="citasHoy_texto_textSize">18sp</dimen>
+    <dimen name="image_cardview_height">100dp</dimen>
+    <dimen name="textview_height">70dp</dimen>
+</resources>

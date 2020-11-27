@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301442024490",
+    "firebase_url": "https://salon-de-belleza-a80c9.firebaseio.com",
+    "project_id": "salon-de-belleza-a80c9",
+    "storage_bucket": "salon-de-belleza-a80c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301442024490:android:0089f5632d1dcf8281ef53",
+        "android_client_info": {
+          "package_name": "com.example.salndebelleza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301442024490-2krbl1q2d75gspcba2pqatglrk74mfhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCQBGzgr5Fb-MXXtXTbNsgb4h2x737OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301442024490-2krbl1q2d75gspcba2pqatglrk74mfhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

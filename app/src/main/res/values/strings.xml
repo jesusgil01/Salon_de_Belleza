@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Salón de Belleza</string>
+    <string name="nombre_salon">Paolo\'s</string>
+    <string name="content_logo">Logo salón</string>
+    <string name="citas_de_hoy">Citas de hoy</string>
+    <string name="nombre_citas_hoy">Nombre</string>
+    <string name="hora_citas_hoy">Hora</string>
+    <string name="servicio_citas_hoy">Servicio</string>
+    <string name="monto_citas_hoy">Monto</string>
+    <string name="agenda_cardview">Agenda</string>
+    <string name="servicios_cardview">Servicios</string>
+    <string name="clientes_cardview">Clientes</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="nombreUsuario_bienvenido">Nombre</string>
+</resources>
